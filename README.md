@@ -1,4 +1,4 @@
-# txpoolWatcher:  An Ethereum txpool watcher
+# An Ethereum txpool watcher
 
 The code utilizes the RPC directory under Ethereum as a dependency to interact with the Ethereum blockchain via a Remote Procedure Call (RPC). 
 
